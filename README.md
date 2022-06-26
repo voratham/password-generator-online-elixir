@@ -2,7 +2,7 @@
 
 This is simple project password generator online 
 
-![alt]("./images/screen_shot.png")
+<img src="./images/screen_shot.png" />
 
 To start your Phoenix server:
 
